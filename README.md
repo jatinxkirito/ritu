@@ -7,5 +7,6 @@ A simple Flutter app with dynamic video background and beautiful UI.
 
 <img width="261" alt="image" src="https://user-images.githubusercontent.com/99955741/183420110-7e848bfe-b7f1-48a2-8030-d538b25c45ef.png">
 
-![image](https://user-images.githubusercontent.com/99955741/183420643-cd82b80a-81c2-4429-9ae5-8e1d9e75ae89.png)
+<img width="261" alt="image" src="https://user-images.githubusercontent.com/99955741/183421153-82b792bd-25ab-4979-85a3-ad1c0d5a348f.jpeg">
+
 
