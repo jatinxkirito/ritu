@@ -1,16 +1,11 @@
 # ritu
+A simple Flutter app with dynamic video background and beautiful UI.
 
-A new Flutter project.
+##Some of background for various weather conditions
 
-## Getting Started
+<img width="268" alt="image" src="https://user-images.githubusercontent.com/99955741/183419713-9077ff0e-72eb-41d9-af89-629980904d9e.png">
 
-This project is a starting point for a Flutter application.
+<img width="261" alt="image" src="https://user-images.githubusercontent.com/99955741/183420110-7e848bfe-b7f1-48a2-8030-d538b25c45ef.png">
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/99955741/183420643-cd82b80a-81c2-4429-9ae5-8e1d9e75ae89.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
